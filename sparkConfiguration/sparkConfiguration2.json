@@ -1,0 +1,14 @@
+{
+	"name": "sparkConfiguration2",
+	"properties": {
+		"configs": {
+			"spark.jars.packages": "graphframes:graphframes:0.8.1-spark3.0-s_2.12"
+		},
+		"created": "2023-12-09T11:57:36.169Z",
+		"createdBy": "kartik@quark.com",
+		"annotations": [],
+		"configMergeRule": {
+			"artifact.currentOperation.spark.jars.packages": "replace"
+		}
+	}
+}
